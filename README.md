@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrosgmagalhaes" alt="pedrosgmagalhaes" /></a> </p>
 
-- 🔭 I’m currently working on [Iora chain](https://iorachain.com)
 
 - 🌱 I’m currently learning **Rust, Golang, Python for Data Mining.**
 
 - 💬 Ask me about **React, typescript, blockchain and web3**
 
-- 📫 How to reach me **pedro.magalhaes@iorachain.com**
+- 📫 How to reach me **pedro@ioralabs.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
