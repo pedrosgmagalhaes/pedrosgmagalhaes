@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrosgmagalhaes" alt="pedrosgmagalhaes" /></a> </p>
 
 <a href="https://www.youtube.com/watch?v=AZagoVAlgKc">
-  <img src="https://iili.io/HraqWOl.md.jpg" alt="HraqWOl.md.jpg" border="0">
+  <img src="https://freeimage.host/i/Hraqb5v" alt="Youtube Video" border="0">
 </a>
 
 - 🌱 I’m currently learning **Rust, Golang, Python for Data Mining.**
