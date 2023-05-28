@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrosgmagalhaes" alt="pedrosgmagalhaes" /></a> </p>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZagoVAlgKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - 🌱 I’m currently learning **Rust, Golang, Python for Data Mining.**
 
 - 💬 Ask me about **React, typescript, blockchain and web3**
