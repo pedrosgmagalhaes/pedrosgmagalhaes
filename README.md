@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, typescript, blockchain and web3**
 
-- 📫 How to reach me **pedro@ioralabs.com**
+- 📫 How to reach me **pedro@pedrodapps.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
