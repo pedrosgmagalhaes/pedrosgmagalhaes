@@ -49,15 +49,6 @@ I build products at the intersection of **blockchain**, **artificial intelligenc
 - 💬 Ask me about **Solidity, DeFi, CBDC, tokenization, Web3 and AI**
 - 📫 Reach me at **pedro@pedrodapps.com**
 
-### 🚀 Featured projects
-
-<p align="center">
-  <a href="https://github.com/pedrosgmagalhaes/drex_smartcontracts"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrosgmagalhaes&amp;repo=drex_smartcontracts&amp;theme=tokyonight&amp;hide_border=true" alt="drex_smartcontracts"/></a>
-  <a href="https://github.com/pedrosgmagalhaes/drex-hyperledger-besu-deployer"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrosgmagalhaes&amp;repo=drex-hyperledger-besu-deployer&amp;theme=tokyonight&amp;hide_border=true" alt="drex-hyperledger-besu-deployer"/></a>
-  <a href="https://github.com/pedrosgmagalhaes/mcp-gowd"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrosgmagalhaes&amp;repo=mcp-gowd&amp;theme=tokyonight&amp;hide_border=true" alt="mcp-gowd"/></a>
-  <a href="https://github.com/pedrosgmagalhaes/imovel_marketplace"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrosgmagalhaes&amp;repo=imovel_marketplace&amp;theme=tokyonight&amp;hide_border=true" alt="imovel_marketplace"/></a>
-</p>
-
 ### 🛠️ Tech stack
 
 <p align="center">
