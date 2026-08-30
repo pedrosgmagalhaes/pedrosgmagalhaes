@@ -15,12 +15,36 @@
 
 ---
 
+### 📺 YouTube — Pedro dApps
+
+<p align="center">
+  <a href="https://www.youtube.com/@pedro_dapps">
+    <img width="120" src="https://yt3.googleusercontent.com/m6qvuTbqp1-4gl9WvmAr04OXiEL68ASK23mtprnGNnLl_FyTeKw-TL93sufojcffvZcB8vKugQ=s200-c-k-c0x00ffffff-no-rj" alt="Pedro dApps"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Pedro dApps</b> — blockchain, IA &amp; Web3 na prática
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@pedro_dapps?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/SUBSCRIBE-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Subscribe"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCMlhd4h509HxHXIWgPZn8ZA?style=for-the-badge&amp;label=Subscribers&amp;logo=youtube&amp;logoColor=white&amp;color=FF0000" alt="Subscribers"/>
+  <img src="https://img.shields.io/youtube/channel/views/UCMlhd4h509HxHXIWgPZn8ZA?style=for-the-badge&amp;label=Views&amp;logo=youtube&amp;logoColor=white&amp;color=FF0000" alt="Views"/>
+</p>
+
+---
+
 ### 👨‍💻 About me
 
 I build products at the intersection of **blockchain**, **artificial intelligence** and **web3** — from Solidity smart contracts and CBDC infrastructure (Drex) to fullstack applications, DevOps pipelines and AI-driven tooling.
 
 - 🔭 Founder &amp; engineer at **Iora Labs**, shipping tokenization, payments and Web3 infrastructure
-- 🎥 Content creator — teaching blockchain &amp; AI on [YouTube (@pedro_dapps)](https://www.youtube.com/@pedro_dapps)
 - 🌱 Currently exploring **Rust**, **Go** and **AI agents (MCP)**
 - 💬 Ask me about **Solidity, DeFi, CBDC, tokenization, Web3 and AI**
 - 📫 Reach me at **pedro@pedrodapps.com**
