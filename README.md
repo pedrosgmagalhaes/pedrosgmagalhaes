@@ -2,7 +2,7 @@
 <h3 align="center">Blockchain · AI · Fullstack · DevOps &amp; Security Engineer</h3>
 
 <p align="center">
-  Founder @ <a href="https://ioralabs.com">Iora Labs</a> · Youtuber <a href="https://www.youtube.com/@pedro_dapps">@pedro_dapps</a>
+  Co-Founder @ <a href="https://ashar.finance">Ashar Finance</a> · Youtuber <a href="https://www.youtube.com/@pedro_dapps">@pedro_dapps</a>
 </p>
 
 <p align="center">
