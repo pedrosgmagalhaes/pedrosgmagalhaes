@@ -50,7 +50,7 @@
     <td width="33%" valign="top">
       <a href="https://vairemessas.com"><img src="assets/card-vai.webp" alt="Vai Remessas" width="100%"/></a>
       <h4><img src="assets/icon-vai.png" width="22" align="absmiddle" alt=""/>&nbsp; <a href="https://vairemessas.com">Vai Remessas</a></h4>
-      <p>Conta internacional para PMEs brasileiras receberem e pagarem o mundo, com o dinheiro voltando por Pix. <sub>Parceiro de tecnologia.</sub></p>
+      <p>Conta internacional para PMEs brasileiras receberem e pagarem o mundo, com o dinheiro voltando por Pix. Sou parceiro de tecnologia.</p>
     </td>
     <td width="33%" valign="top">
       <a href="https://playhireling.com"><img src="assets/card-hireling.webp" alt="Hireling" width="100%"/></a>
@@ -75,11 +75,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.youtube.com/watch?v=WXIsCUQhNRs"><img src="https://i.ytimg.com/vi/WXIsCUQhNRs/maxresdefault.jpg" alt="Basis Trade" width="100%"/></a>
+      <a href="https://www.youtube.com/watch?v=z95C8UtCK10"><img src="https://i.ytimg.com/vi/z95C8UtCK10/maxresdefault.jpg" alt="Basis Trade" width="100%"/></a>
       <sub><b>Basis Trade: o lucro “sem direção” que as mesas amam</b></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.youtube.com/watch?v=k7xL_zJKcOM"><img src="https://i.ytimg.com/vi/k7xL_zJKcOM/maxresdefault.jpg" alt="21 bancos contra a Tether" width="100%"/></a>
+      <a href="https://www.youtube.com/watch?v=Y_-C79pwZiA"><img src="https://i.ytimg.com/vi/Y_-C79pwZiA/maxresdefault.jpg" alt="21 bancos contra a Tether" width="100%"/></a>
       <sub><b>21 bancos contra a Tether: stablecoin em dólar dos grandes bancos para 2027</b></sub>
     </td>
   </tr>
