@@ -57,5 +57,5 @@
 ---
 
 <p align="center">
-  📫 <a href="mailto:pedro@pedrodapps.com">pedro@pedrodapps.com</a> · Montevidéu, Uruguai 🇺🇾
+  📫 <a href="mailto:p@pedrodapps.com">p@pedrodapps.com</a> · Montevidéu, Uruguai 🇺🇾
 </p>
